@@ -1,5 +1,5 @@
 # :sparkles: Emoji Unicode icons :sparkles:
-:ghost: Emoji icons from unicode as web icons. Get emoji unicodes here <a href="http://emojipedia.org/unicode-8.0/">emojipedia.org/unicode-8.0/</a>
+Emoji icons from unicode as web icons. Get emoji unicodes here <a href="http://emojipedia.org/unicode-8.0/">emojipedia.org/unicode-8.0/</a>. :ghost:
 
 #### How it works
 Just like regular icons, emoji-icons uses the psuedo elements and unicode to display an icon. By using the unicode you'll get your system right emojis displayed.
