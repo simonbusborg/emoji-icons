@@ -1,56 +1,56 @@
-i.-emoji-icon {
+i.emoji-icon {
   font-size: 40px;
   font-style: normal;
 }
 
-i.-emoji-icon.-ghost:before {
+i.emoji-icon.-ghost:before {
   content: "\1F47B";
 }
 
-i.-emoji-icon.-raisedhands:before {
+i.emoji-icon.-raisedhands:before {
   content: "\1F64C";
 }
 
-i.-emoji-icon.-wave:before {
+i.emoji-icon.-wave:before {
   content: "\1F44B";
 }
 
-i.-emoji-icon.-ok:before {
+i.emoji-icon.-ok:before {
   content: "\1F44C";
 }
 
-i.-emoji-icon.-thumbsup:before {
+i.emoji-icon.-thumbsup:before {
   content: "\1F44D";
 }
 
-i.-emoji-icon.-bomb:before {
+i.emoji-icon.-bomb:before {
   content: "\1F4A3";
 }
 
-i.-emoji-icon.-poo:before {
+i.emoji-icon.-poo:before {
   content: "\1F4A9";
 }
 
-i.-emoji-icon.-fire:before {
+i.emoji-icon.-fire:before {
   content: "\1F525";
 }
 
-i.-emoji-icon.-gun:before {
+i.emoji-icon.-gun:before {
   content: "\1F52B";
 }
 
-i.-emoji-icon.-grin:before {
+i.emoji-icon.-grin:before {
   content: "\1F600";
 }
 
-i.-emoji-icon.-neutral:before {
+i.emoji-icon.-neutral:before {
   content: "\1F610";
 }
 
-i.-emoji-icon.-grim:before {
+i.emoji-icon.-grim:before {
   content: "\1F62C";
 }
 
-i.-emoji-icon.-unicorn:before {
+i.emoji-icon.-unicorn:before {
   content: "\1F984";
 }
