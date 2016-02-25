@@ -5,17 +5,18 @@ Emoji icons from unicode as web icons. Get emoji unicodes here <a href="http://e
 Just like regular icons, emoji-icons uses the psuedo elements and unicode to display an icon. By using the unicode you'll get your system right emojis displayed.
 
 **Example**
+
+Include stylesheet in your `<head>`
 ```html
-<script src="/emoji-icons.css"></script>
+<script src="../emoji-icons.css"></script>
 ```
 
+See codepen for a <a href="http://codepen.io/simonbusborg/full/JXPpza">live example</a>.
 ```css
 <i class="emoji-icon -bomb"></i>
 ```
 
 Result = :bomb:
-
-<a href="http://codepen.io/simonbusborg/full/JXPpza">Demo</a>
 
 #### Contributions wanted, catch all the emojis :tiger:
 So this is just for pure fun, but somewhere, someday, someone will need this. I need your help catching all the icons. Grab an icon or 10 a day, keeps the doctor away? :beers:
