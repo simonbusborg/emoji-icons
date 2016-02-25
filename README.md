@@ -4,6 +4,9 @@
 #### How it works
 Just like regular icons, emoji-icons uses the psuedo elements and unicode to display an icon. By using the unicode you'll get your system right emojis displayed.
 
+**Example**: 
+`<i class="-emoji-icon -ghost"></i>` = :ghost:
+
 <a href="http://codepen.io/simonbusborg/full/JXPpza">Demo</a>
 
 #### Contributions wanted. Catch all the Emojis
