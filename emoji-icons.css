@@ -57,3 +57,27 @@ i.emoji-icon.-grim:before {
 i.emoji-icon.-unicorn:before {
   content: "\1F984";
 }
+
+i.emoji-icon.-bandage:before {
+  content: "\1F915";
+}
+
+i.emoji-icon.-robot:before {
+  content: "\1F916";
+}
+
+i.emoji-icon.-taco:before {
+  content: "\1F32E";
+}
+
+i.emoji-icon.-popcorn:before {
+  content: "\1F37F";
+}
+
+i.emoji-icon.-sushi:before {
+  content: "\1F363";
+}
+
+i.emoji-icon.-nerd:before {
+  content: "\1F913";
+}
