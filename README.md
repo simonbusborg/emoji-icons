@@ -14,9 +14,9 @@ So this is just for pure fun, but somewhere, someday, someone will need this. I 
 
 #### How to contribute
 1. Fork it!
-2. Create your feature branch: git checkout -b my-new-feature
-3. Commit your changes: git commit -am 'Add some feature'
-4. Push to the branch: git push origin my-new-feature
+2. Create your feature branch: git checkout -b new-icons
+3. Commit your changes: git commit -am 'Added icon(s)'
+4. Push to the branch: git push origin new-icons
 5. Submit a pull request and enjoy! :smile:
 
 #### Contributers
