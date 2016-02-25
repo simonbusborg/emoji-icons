@@ -5,7 +5,7 @@ Emoji icons from unicode as web icons. Get emoji unicodes here <a href="http://e
 Just like regular icons, emoji-icons uses the psuedo elements and unicode to display an icon. By using the unicode you'll get your system right emojis displayed.
 
 **Example**
-`<i class="-emoji-icon -ghost"></i>` = :ghost:
+`<i class="-emoji-icon -bomb"></i>` = :bomb:
 
 <a href="http://codepen.io/simonbusborg/full/JXPpza">Demo</a>
 
