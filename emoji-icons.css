@@ -50,3 +50,7 @@ i.-emoji-icon.-neutral:before {
 i.-emoji-icon.-grim:before {
   content: "\1F62C";
 }
+
+i.-emoji-icon.-unicorn:before {
+  content: "\1F984";
+}
